@@ -21,12 +21,13 @@ The analysis includes:
 
 
 ## 📂 Project Structure
+```
 nba-player-stats-analysis/
 │── data/ # CSV datasets
 │── nba_analysis.Rmd # RMarkdown notebook (main analysis)
 │── nba_analysis.md # Rendered markdown (GitHub friendly)
 │── nba_analysis_files/ # Auto-generated figures (ggplot visualizations)
-
+```
 
 ## 📊 Results (Examples)
 Some examples of the visualizations generated:
